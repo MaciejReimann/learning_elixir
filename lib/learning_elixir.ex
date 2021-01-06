@@ -13,7 +13,6 @@ defmodule LearningElixir do
 
   """
   def hello do
-    Mix.env()
-    # :world
+    :world
   end
 end
